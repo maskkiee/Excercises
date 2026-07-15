@@ -18,5 +18,5 @@ public class Task1f {
             default -> "Nieznany dzień";
         };
         System.out.println(dzien);
-    }
+     }
 }

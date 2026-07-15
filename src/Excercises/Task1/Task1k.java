@@ -12,6 +12,6 @@ public class Task1k {
             System.out.println("Rok jest przestępny.");
         } else {
             System.out.println("Rok nie jest przestępny.");
-        }
+            }
     }
 }

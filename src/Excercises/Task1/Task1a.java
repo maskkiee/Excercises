@@ -10,6 +10,6 @@ public class Task1a {
         if (n >= 18) {
             System.out.println("Jesteś pełnoletni.");
         } else System.out.println("Nie jesteś pełnoletni");
-    }
 
+    }
 }

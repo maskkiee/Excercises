@@ -26,9 +26,5 @@ public class Task1i {
         };
 
         System.out.println("Wynik: " + wynik);
-
-
-
-
     }
 }

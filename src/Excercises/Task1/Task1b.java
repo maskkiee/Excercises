@@ -9,8 +9,9 @@ public class Task1b {
         int n = s.nextInt();
         if ((n % 2) == 0) {
             System.out.println("Liczba jest parzysta.");
-        }else {
+        } else {
             System.out.println("Liczba jest nieparzysta.");
+        }
+
     }
-}
 }

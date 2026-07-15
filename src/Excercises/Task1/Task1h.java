@@ -14,5 +14,5 @@ public class Task1h {
         default -> "Nie znaleziono kategorii.";
     };
         System.out.println("Stawka VAT wynosi: " + vat);
-}
+    }
 }

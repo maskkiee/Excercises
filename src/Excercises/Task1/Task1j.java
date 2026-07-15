@@ -13,6 +13,6 @@ public class Task1j {
             System.out.println("OK");
         } else {
                 System.out.println("Hasło musi zaczynać się wielką literą");
-        }
+            }
     }
 }

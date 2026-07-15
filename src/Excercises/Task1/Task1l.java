@@ -29,6 +29,6 @@ public class Task1l {
             System.out.println("Data poprawna");
         } else {
             System.out.println("Data niepoprawna");
-        }
+            }
     }
 }

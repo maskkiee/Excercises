@@ -9,5 +9,5 @@ public class Task1g {
         int n = s.nextInt();
         String s1 = n > 18 ? "Pełnoletni" : "Niepełnoteni";
         System.out.println(s1);
-    }
+        }
 }
